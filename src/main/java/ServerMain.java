@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Main {
+public class ServerMain {
     public static void main(String[] args) {
         System.out.println("Сервер запущен.");
         int port = 8086;
